@@ -87,5 +87,3 @@ jobs:
         overwrite: true
         verbose: true
         
-        
-Update docker-image.yml · devopsteamsdb/qryptik@92d4ad2 
